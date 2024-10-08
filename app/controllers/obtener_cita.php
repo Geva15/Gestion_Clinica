@@ -51,4 +51,7 @@ if ($cita) {
     $correo_paciente = "No disponible";
     $edad_paciente = "No disponible";
 }
+
+
+
 ?>
